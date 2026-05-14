@@ -1,0 +1,10 @@
+streamlit
+st-gsheets-connection
+streamlit-option-menu
+pandas
+requests
+beautifulsoup4
+reportlab
+xlsxwriter
+python-dotenv
+plotly
